@@ -9,18 +9,18 @@
 
 Projeto construído no evento Next Level Week da Rockeseat.
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - HTML
 - CSS
 - Git e Github
 
-## O que aprendi
+## 👨‍🎓 O que aprendi
 - Buscar e adicinar imagens no HTML
 - Entender o uso das Tags no HTML
 - Fazer conexões entre o HTML e CSS
 - Fazer animações no CSS
 
-## Contato
+## 🔗 Contato
 
 - probertos717@gmail.com
