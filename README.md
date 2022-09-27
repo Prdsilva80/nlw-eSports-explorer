@@ -11,9 +11,7 @@ Projeto construído no evento Next Level Week da Rockeseat.
 
 ## 🛠️ Tecnologias
 
-- HTML 
-- CSS
-- Git e Github
+- ![preview](./.github/html.svg) ![preview](./.github/css.svg) ![preview](./.github/git.svg)
 
 ## 👨‍🎓 O que aprendi
 - Buscar e adicinar imagens no HTML
