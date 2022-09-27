@@ -1,17 +1,17 @@
 # NLW eSports
 
-![preview](./.github/preview.png)
+  ![preview](./.github/preview.png)
 
 
 > Trilha Explorer
 
-[clique aqui para acessar](https://prdsilva80.github.io/nlw-eSports-explorer/)
+ 🔗 [clique aqui para acessar](https://prdsilva80.github.io/nlw-eSports-explorer/)
 
 Projeto construído no evento Next Level Week da Rockeseat.
 
 ## 🛠️ Tecnologias
 
-- HTML
+- HTML 
 - CSS
 - Git e Github
 
@@ -21,6 +21,6 @@ Projeto construído no evento Next Level Week da Rockeseat.
 - Fazer conexões entre o HTML e CSS
 - Fazer animações no CSS
 
-## 🔗 Contato
+## 📧 Contato
 
 - probertos717@gmail.com
